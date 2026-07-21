@@ -29,7 +29,7 @@ Haz clic en cada día para consultar el recorrido detallado, ubicaciones, restau
 Hemos clasificado los destinos por zonas para facilitar la navegación por las distintas fichas:
 
 ### 🌲 En el corazón de la Selva Negra
-* [📍 Friburgo de Brisgovia](Friburgo.md)
+* [📍 Friburgo de Brisgovia](Frigurgo.md)
 * [📍 Gengenbach](Gengenbach.md)
 * [📍 Baden-Baden](Baden-Baden.md)
 * [📍 Castillo de Hohenbaden](Castillo-Hohenbaden.md)
