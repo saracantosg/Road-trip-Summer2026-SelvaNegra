@@ -1,4 +1,4 @@
-# 🇩🇪 Guía de Viaje – Friburgo (Freiburg im Breisgau)
+# 🇩🇪 Dia en...Friburgo (Freiburg im Breisgau)
 
 > Una ruta de un día  diseñada para recorrer andando y disfrutando de los lugares más emblemáticos, las mejores cervecerías y algunas tiendas con encanto.
 
