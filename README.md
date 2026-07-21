@@ -1,17 +1,20 @@
-# 🌲 Guía de Viaje: Verano en la Selva Negra 🪵
+# 🌲 Guía de Viaje: Verano en la Selva Negra y Alrededores 🪵
 
 ¡Bienvenidos al cuaderno de bitácora de nuestro viaje de este verano! 
 
-### 🚗 Sobre el destino y la ruta
-La Selva Negra (*Schwarzwald*) se encuentra al suroeste de Alemania, a unos **1.500 km por carretera desde España** (unas 14-16 horas de conducción según el punto de salida)
+---
 
-> Cuenta la leyenda que los densos bosques de abetos de esta región inspiraron a los Hermanos Grimm para escribir cuentos como *Hansel y Gretel* o *Caperucita Roja*. Perderse entre la niebla matutina de estos senderos te hace entender rápidamente por qué: hay rincones donde la luz del sol apenas toca el suelo y la sensación de aventura es total.
+### 🚗 Sobre el destino y la ruta
+
+La Selva Negra (*Schwarzwald*) se encuentra en el suroeste de Alemania, a unos **1.500 km por carretera desde España** (aproximadamente entre 14 y 16 horas de conducción, según el punto de origen).
+
+> 🏰 **Un dato curioso:** Cuenta la leyenda que los densos bosques de abetos de esta región inspiraron a los Hermanos Grimm para escribir cuentos clásicos como *Hansel y Gretel* o *Caperucita Roja*. Perderse entre la niebla matutina de sus senderos permite entender por qué: existen rincones donde la luz del sol apenas roza el suelo y la sensación de aventura es total.
 
 ---
 
-## 🗓️ Itinerario y Guía Día a Día
+## 🗓️ Itinerario Día a Día
 
-Haz clic en cada día para ver los detalles del recorrido, ubicaciones, restaurantes y actividades programadas:
+Haz clic en cada día para consultar el recorrido detallado, ubicaciones, restaurantes y actividades programadas:
 
 * [📍 Día 1: Colmar](dia-01.md)
 * [📍 Día 2: Friburgo](dia-02.md)
@@ -19,13 +22,53 @@ Haz clic en cada día para ver los detalles del recorrido, ubicaciones, restaura
 * [📍 Día 4: Pueblos de cuento: Gengenbach y Schiltach](dia-04.md)
 * [📍 Día 5: De excursión por el Parque Nacional y Mummelsee](dia-05.md)
 
+---
+
+## 📌 Guías de Lugares a Visitar
+
+Hemos clasificado los destinos por zonas para facilitar la navegación por las distintas fichas:
+
+### 🌲 En el corazón de la Selva Negra
+* [📍 Friburgo de Brisgovia](Friburgo.md)
+* [📍 Gengenbach](Gengenbach.md)
+* [📍 Baden-Baden](Baden-Baden.md)
+* [📍 Castillo de Hohenbaden](Castillo-Hohenbaden.md)
+* [📍 Treetop Walk Black Forest (Bad Wildbad)](Treetop-Walk.md)
+* [📍 Cascadas de Triberg](Triberg.md)
+* [📍 Lago Titisee](Titisee.md)
+* [📍 Lago Schluchsee](Schluchsee.md)
+
+### 🎢 Parques Temáticos y Acuáticos
+* [📍 Europa-Park](Europa-Park.md)
+* [📍 Rulantica](Rulantica.md)
+* [📍 Badeparadies Schwarzwald](Badeparadies.md)
+
+### 🇫🇷 Alsacia y Ruta por Francia
+* [📍 Colmar](Colmar.md)
+* [📍 Chamonix-Mont-Blanc](Chamonix.md)
+* [📍 Valence](Valence.md)
+
+### 🇨🇭 Suiza y Frontera
+* [📍 Cataratas del Rin](Cataratas-del-Rin.md)
+* [📍 Lago de Constanza (*Bodensee*)](Lago-de-Constanza.md)
+
+### 🏰 Baviera y Alpes Bávaros
+* [📍 Füssen](Fussen.md)
+* [📍 Castillo de Neuschwanstein](Neuschwanstein.md)
+* [📍 Lago Eib (*Eibsee*)](Lago-Eib.md)
+* [📍 Garganta del Partnach (*Partnachklamm*)](Partnach-Gorge.md)
 
 ---
-## 📌 Pequeñas guias de lugares a visitar
-*[📍 Colmar ](Colmar.md)
-*[📍 Friburgo](Friburgo.md)
 
-## 📌 Enlaces Útiles y Datos Rápidos
+## 🔗 Enlaces Útiles y Datos Rápidos
 
-* [Entrada Europa Park](https://www.europapark.de/en/park?gad_source=1&gad_campaignid=24049664077&gbraid=0AAAABDeh6hrJd3Y-i-R8VLUZzbuuUDP3t&gclid=CjwKCAjwsfzSBhB5EiwAOGyqSfShpgaYW9wxV8fsfhfEzx97qMjorm-pRJpik8QiniNOGB7VWeRK6BoCHbYQAvD_BwE)
+### 🎟️ Entradas y Reservas Oficiales
+* [🎢 Entradas Oficiales a Europa-Park](https://www.europapark.de/en/park)
+* [🌊 Entradas Oficiales a Rulantica](https://www.europapark.de/en/rulantica)
+* [🎟️ Reservas Castillo de Neuschwanstein](https://www.hohenschwangau.de/en/tickets-entry/neuschwanstein-castle)
 
+### ℹ️ Información Turística y Movilidad
+* [🌲 Schwarzwald Tourismus (Turismo Oficial de la Selva Negra)](https://www.schwarzwald-tourismus.info/)
+* [💳 Schwarzwaldcard (Tarjeta de descuentos de la región)](https://www.schwarzwaldcard.info/)
+* [🚗 ADAC - Estado del Tráfico en Alemania](https://www.adac.de/verkehr/verkehrsinformationen/)
+* [🏔️ Chamonix-Mont-Blanc Turismo](https://www.chamonix.com/)
