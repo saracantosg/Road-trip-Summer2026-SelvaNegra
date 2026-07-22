@@ -44,7 +44,67 @@ Marca las atracciones a medida que las vayas conquistando durante tus 2 días:
 - [ ] **Piraten in Batavia** *(Área de Holanda)*: Un *dark ride* acuático espectacular al estilo Piratas del Caribe para relajarse entre montaña rusa y montaña rusa.
 
 ---
+# 🎭 Guía de Espectáculos en Europa-Park
 
+Europa-Park cuenta con más de 300 artistas internacionales. Todos los espectáculos están **incluidos en la entrada** y la gran mayoría son visuales (no requieren entender alemán ni francés).
+
+---
+
+## 🔝 Los 4 Imprescindibles (Acrobacias y Gran Producción)
+
+- [ ] **⚔️ Espectáculo de Caballería y Especialistas**
+  * **Ubicación:** Área de España (*Spanische Arena*)
+  * **Duración:** ~30 min
+  * **De qué va:** Acción medieval con acrobacias a caballo, luchas de espadas, efectos visuales y fuego en una plaza de toros tematizada.
+  * **Por qué verlo:** Mucha adrenalina y ritmo rápido. Ideal si os gusta la acción.
+
+- [ ] **⛸️ Show sobre Hielo (*Ice Show*)**
+  * **Ubicación:** Área de Grecia (*Eisstadion*)
+  * **Duración:** ~30 min
+  * **De qué va:** Patinaje artístico de nivel profesional y olímpico, con vestuario espectacular, coreografías y saltos increíbles.
+  * **Por qué verlo:** Uno de los shows más aclamados del parque. Además, la pista de hielo cubierta es perfecta para huir del calor a mediodía.
+
+- [ ] **🤸 Varieté y Acrobacias (*Teatro de Italia / Teatro de Reino Unido*)**
+  * **Ubicación:** Teatro Italiano o Globe Theatre (Reino Unido)
+  * **Duración:** ~25 min
+  * **De qué va:** Muestra de circo contemporáneo, danza, magia y acrobacias aéreas con artistas internacionales de alto nivel.
+  * **Por qué verlo:** Producción estilo Broadway/Cirque du Soleil en pases muy ágiles.
+
+- [ ] **🏴‍☠️ Salto de Gran Altura (*High Diving*)**
+  * **Ubicación:** Área de Portugal / Escandinavia *(Solo en temporada de verano)*
+  * **Duración:** ~15-20 min
+  * **De qué va:** Especialistas que se lanzan a una piscina reducida desde plataformas suspendidas a más de 25 metros de altura haciendo piruetas.
+  * **Por qué verlo:** Es corto, al aire libre y las caídas impactan muchísimo en directo.
+
+---
+
+## 💃 Danza, Música y Desfiles
+
+- [ ] **🎺 Desfile Diario (*Europa-Park Parade*)**
+  * **Ubicación:** Recorre las avenidas principales del parque (consultar recorrido en la App).
+  * **Duración:** ~25 min
+  * **De qué va:** Cabalgata con carrozas tematizadas, música en directo, bailarines y las mascotas del parque.
+
+- [ ] **💃 Flamenco y Danza Española**
+  * **Ubicación:** Área de España (*Teatro de la Plaza*)
+  * **Duración:** ~20 min
+  * **De qué va:** Pases de baile flamenco y música en directo en un patio andaluz.
+
+- [ ] **🎬 Show Cinematográfico / Ed Euromaus**
+  * **Ubicación:** Área de Francia (*Magic Cinema 4D*)
+  * **Duración:** ~20 min
+  * **De qué va:** Proyección de cortometrajes animados en 4D con efectos de viento, agua y movimiento en los asientos.
+
+---
+
+## 📌 Consejos para los Espectáculos
+
+1. **Revisar horarios en la App:** Los pases varían según el día. Consulta la pestaña *Shows* en la App oficial de Europa-Park nada más entrar.
+2. **Antelación:** Llega **15 minutos antes** de la hora señalada para conseguir buenos asientos, especialmente en el Show sobre Hielo y la Arena Española.
+3. **Pausas estratégicas:** Planea ver un espectáculo a las horas centrales del día (entre las 13:30 y las 16:00 h) para descansar de las colas y coger aire para el resto de la tarde.
+
+---
+   
 ## 🍕 Dónde Comer Barato o Picar Algo Rápido
 
 Para no perder tiempo de colas ni gastar demasiado, evita los restaurantes de servicio de mesa y opta por estas opciones rápidas e icónicas:
