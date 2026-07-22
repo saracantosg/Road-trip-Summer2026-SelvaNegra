@@ -19,8 +19,11 @@ Haz clic en cada día para consultar el recorrido detallado, ubicaciones, restau
 * [📍 Día 1: Llegada a Colmar](dia-01.md)
 * [📍 Día 2: Visita Colmar y compras](dia-02.md)
 * [📍 Día 3: Friburgo todo el día](dia-03.md)
-* [📍 Día 4: EuropaPark](dia-04.md)
-* [📍 Día 5: Rulantica](dia-05.md)
+* [📍 Día 4 y 5: EuropaPark](dia-04.md)
+* [📍 Día 6: Rulantica](dia-06.md)
+* [📍 Día 7: Gengenbach y Lago Mummel](dia-07.md)
+* [📍 Día 8: Baden Baden y Castillo Honenbaden](dia-08.md)
+
 
 ---
 
