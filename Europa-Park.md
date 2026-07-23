@@ -128,6 +128,8 @@ Para no perder tiempo de colas ni gastar demasiado, evita los restaurantes de se
    La app permite reservar turno de cola virtual de forma **totalmente gratuita** para atracciones como *Voltron, Blue Fire, Wodan o Arthur*. Reservas hora, sigues disfrutando del parque y entras casi directo cuando llegue tu turno.
 3. **Aprovecha la cola "Single Rider":**  
    Si no os importa subir separados en el vagón, las montañas rusas como *Voltron, Silver Star, Blue Fire, Wodan y Euro-Mir* tienen cola para personas solas (*Single Rider*). Reduciréis esperas de 60 minutos a tan solo 10-15 minutos.
-4. **Reparto del Parque en 2 Días:**
+3.5 **Elige que día ir**
+ En esta web podrás saber que dia te viene mejor ir. [https://queue-times.com/es/parks/51/calendar] (https://queue-times.com/es/parks/51/calendar)
+5. **Reparto del Parque en 2 Días:**
    * **Día 1:** Enfócarse en la zona trasera del parque (Croacia, Islandia, Portugal, Escandinavia y Austria). Ir directo a **Voltron** nada más abrir.
    * **Día 2:** Enfócarse en la zona delantera y central (Francia, Grecia, Rusia, Suiza y Alemania) y repetir las favoritas del Día 1 al final de la tarde.
