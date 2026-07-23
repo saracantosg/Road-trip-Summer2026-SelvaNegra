@@ -16,10 +16,10 @@ La Selva Negra (*Schwarzwald*) se encuentra en el suroeste de Alemania, a unos *
 
 Haz clic en cada día para consultar el recorrido detallado, ubicaciones, restaurantes y actividades programadas:
 
-* [📍 Día 1: Llegada a Colmar](dia-01.md)
-* [📍 Día 2: Visita Colmar y compras](dia-02.md)
-* [📍 Día 3: Friburgo todo el día](dia-03.md)
-* [📍 Día 4 y 5: EuropaPark](dia-04.md)
+* 📍 Día 1: Llegada a Colmar
+* 📍 Día 2: Visita [Colmar](Colmar.md) y compras
+* 📍 Día 3: [Friburgo](Friburgo.md) todo el día
+* 📍 Día 4: [EuropaPark](Europa-Park.md)
 * [📍 Día 6: Rulantica](dia-06.md)
 * [📍 Día 7: Gengenbach y Lago Mummel](dia-07.md)
 * [📍 Día 8: Baden Baden y Castillo Honenbaden](dia-08.md)
