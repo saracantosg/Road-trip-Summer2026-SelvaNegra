@@ -276,3 +276,7 @@ https://visit.freiburg.de/en
 
 Friburgo no es una ciudad para recorrer con prisas. Su encanto está en perderse por las callejuelas del casco antiguo, descubrir pequeños patios, escuchar el sonido del agua de los Bächle y sentarse en una terraza con una buena cerveza mientras se observa la vida cotidiana. Dedica tiempo a pasear sin rumbo fijo: muchas veces los rincones más bonitos no aparecen en las guías, sino que se encuentran simplemente caminando.
 
+## Pernocta Autocaravana
+Tiene un área donde el estadio de fútbo Europa Park, pero con demasiado sol. 
+Mejor dormir en un parking cercano arbolado.
+
